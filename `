@@ -1,0 +1,5 @@
+pytesseract == 0.3.5
+
+https://github.com/UB-Mannheim/tesseract/wiki
+https://linuxhint.com/install-tesseract-windows/
+https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
